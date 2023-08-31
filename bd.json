@@ -1,0 +1,30 @@
+{
+    "usuarios":[
+        {
+            "id": 1,
+            "nome":" Karina",
+            "email": "karinamoraes51@gamil.com",
+            "senha": "123456"
+        },
+
+       
+        {
+            "id": 2,
+            "nome":" Marcia",
+            "email": "marciaPreto@gamil.com",
+            "senha": "654321"
+        }
+
+
+
+    ],
+    "produtos":[
+        {
+            "id": 1,
+            "nome": "café",
+            "descricao": "café tipo arábica",
+            "validade": "2024-12-31",
+            "preco": 16.59
+        }
+    ]
+}
