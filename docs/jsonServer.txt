@@ -24,3 +24,5 @@ npm i  json-serve
 "start": "json-server --watch <nome do arquivo>.json"
 
 --Odar o camando "npm start" para inicioar o servidor
+
+sem alteração
