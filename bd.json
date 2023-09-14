@@ -3,7 +3,7 @@
         {
             "id": 1,
             "nome":" Karina",
-            "email": "karinamoraes51@gamil.com",
+            "email": "karinamoraes51@gmail.com",
             "senha": "123456"
         },
 
@@ -11,7 +11,7 @@
         {
             "id": 2,
             "nome":" Marcia",
-            "email": "marciaPreto@gamil.com",
+            "email": "marciaPreto@gmail.com",
             "senha": "654321"
         }
 
